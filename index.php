@@ -94,7 +94,7 @@ class Notification {
     }
 }
 
-$user = new User("John Doe", 30, 85, 180, "weight_loss", "No medical issues");
+$user = new User("Saiful Islam Shuvo", 29, 85, 155, "weight_loss", "No medical issues");
 $activity = new Activity();
 $workoutPlan = new WorkoutPlan();
 $dietManager = new DietManager();
